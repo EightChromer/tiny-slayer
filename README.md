@@ -5,8 +5,6 @@
 
 ### <p align="center">📈 Acompanhei as aulas de [Mecânicas e Interatividade em Jogos com Godot](https://web.dio.me/track/santander-2024-criando-jogos-com-godot) desde o início enquanto criava meu jogo</p>
 
-
-
 ### Consegui aprender:
 
 - [X] Procurar por Assets Livres para Jogos
@@ -20,5 +18,8 @@
 - [X] Exportar e Publicar o Jogo
 
 
-[<img src="https://img.shields.io/static/v1?label=GitHub&message=EightChromer&color=7159c1&style=for-the-badge&logo=ghost"/>](https://github.com/EightChromer)
+#### <p align="center">Jogue Tiny Slayer pelo [Itch.io](https://eightchromer.itch.io/tiny-slayer)</p> 
+
+<br /> <br /> 
+[<img src="https://img.shields.io/static/v1?label=GitHub&message=EightChromer&color=7159c1&style=for-the-badge&logo=ghost"/>](https://github.com/EightChromer)<br /> 
 [<img src="https://img.shields.io/static/v1?label=Linkedin&message=Vinícius Ferraz&color=006CA5&style=for-the-badge&logo=ghost"/>](https://www.linkedin.com/in/viniciusf-silva/)
